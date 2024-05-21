@@ -8,6 +8,12 @@
 
 <br/>
 
+## 웹사이트 화면
+![screencapture-127-0-0-1-8000-etf-2024-05-21-12_17_25](https://github.com/Dopany/.github/assets/64184518/917f5064-5f8f-4ddb-8304-d63642cc71a1)
+![screencapture-127-0-0-1-8000-company-2024-05-21-12_20_40](https://github.com/Dopany/.github/assets/64184518/fd060eae-f036-43f4-9bbb-c6a2a2b38c58)
+
+<br/>
+
 ## 기술스택
 
 - Language/Markup : Python, Javascript, HTML, CSS
