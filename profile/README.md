@@ -10,7 +10,8 @@
 
 ## 웹사이트 화면
 ![screencapture-127-0-0-1-8000-etf-2024-05-21-12_17_25](https://github.com/Dopany/.github/assets/64184518/917f5064-5f8f-4ddb-8304-d63642cc71a1)
-![screencapture-127-0-0-1-8000-company-2024-05-21-12_20_40](https://github.com/Dopany/.github/assets/64184518/fd060eae-f036-43f4-9bbb-c6a2a2b38c58)
+![screencapture-127-0-0-1-8000-company-2024-05-21-13_57_08](https://github.com/Dopany/.github/assets/64184518/3ef9a97b-0021-4a1c-8b11-3a7cec2436cf)
+![screencapture-127-0-0-1-8000-company-채용공고](https://github.com/Dopany/.github/assets/64184518/fb1c19fe-d753-455a-a1d5-935a4c265c80)
 
 <br/>
 
