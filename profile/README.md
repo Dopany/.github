@@ -32,3 +32,7 @@
 ## ERD
 
 ![ERD](https://github.com/Dopany/.github/assets/64184518/9fbec8a8-6061-4ed7-8dc7-8307bff218ea)
+
+## 세부 활동 기록
+
+https://project-public.notion.site/TrendyDE-b56c9458c1d849379155df594f48532f?pvs=4
